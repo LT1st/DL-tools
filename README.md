@@ -1,9 +1,9 @@
 # DL-tools
-The collection of Deeplearning tools. 
+A collection of Deeplearning tools. 
 
 # Pytorch
 
-# Pytorch
+# Python
 
 # Numpy
 
